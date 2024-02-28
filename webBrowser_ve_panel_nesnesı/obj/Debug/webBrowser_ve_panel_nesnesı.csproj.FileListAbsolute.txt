@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\bin\Debug\webBrowser_ve_panel_nesnesı.exe.config
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\bin\Debug\webBrowser_ve_panel_nesnesı.exe
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\bin\Debug\webBrowser_ve_panel_nesnesı.pdb
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.Form1.resources
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.exe
+C:\Users\Pc\Desktop\c# kodları\webBrowser_ve_panel_nesnesı\webBrowser_ve_panel_nesnesı\obj\Debug\webBrowser_ve_panel_nesnesı.pdb
